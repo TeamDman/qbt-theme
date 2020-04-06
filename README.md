@@ -13,3 +13,8 @@ This repo also contains different tool to create your own qbittorrent theme file
 
 ## How to create your own theme file?
 You can check the source of above style in `Builds` folder
+
+One of the build tools has been flagged as a virus by some tools. 
+See [discussion here](https://github.com/jagannatharjun/qbt-theme/issues/15).
+
+Use at your own discretion.
